@@ -1,0 +1,1 @@
+# Setting-up-Jasmine-Karma-and-TestBed-for-Ionic2-Angular2
