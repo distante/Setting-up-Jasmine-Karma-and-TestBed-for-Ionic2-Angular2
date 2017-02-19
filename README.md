@@ -1,6 +1,6 @@
 # Setting up Jasmine Karma and TestBed for Ionic2 / Angular2
 
-## Optional
+## 0. Optional
 If you are just starting, create you project
 ```
 ionic start ionic2.yourAppName blank --v2
@@ -45,6 +45,13 @@ A && B  Run B if A succeeded
 A || B  Run B if A failed
 A &     Run A in background.
 ```
-## 2. Files
+## 2. New Files
 Copy all the files form this repository
 
+## 3. Edit Files
+Add to the scripts object in package.json
+```
+"test": "ng test"
+```
+## 4. Test if Works
+npm test
