@@ -55,3 +55,5 @@ Add to the scripts object in package.json
 ```
 ## 4. Test if Works
 npm test
+Output: 
+[Imgur](http://i.imgur.com/RqSBNFy.png)
